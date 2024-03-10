@@ -1,0 +1,1 @@
+This is a small assignment for The Odin Project, in which I have to build a simple Website for recipes. Thanks for reading lol
